@@ -3,11 +3,11 @@ OpenAI Gym for Sphero Robots
 ============================
 
 
-.. image:: https://img.shields.io/pypi/v/gym_sphero.svg
-        :target: https://pypi.python.org/pypi/gym_sphero
+.. image:: https://img.shields.io/pypi/v/openai_gym_sphero.svg
+        :target: https://pypi.python.org/pypi/openai_gym_sphero
 
-.. image:: https://img.shields.io/travis/leigh-johnson/gym_sphero.svg
-        :target: https://travis-ci.org/leigh-johnson/gym_sphero
+.. image:: https://img.shields.io/travis/leigh-johnson/openai_gym_sphero.svg
+        :target: https://travis-ci.org/leigh-johnson/openai_gym_sphero
 
 .. image:: https://readthedocs.org/projects/gym-sphero/badge/?version=latest
         :target: https://gym-sphero.readthedocs.io/en/latest/?badge=latest

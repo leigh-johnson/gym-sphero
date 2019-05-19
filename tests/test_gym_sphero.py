@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Tests for `gym_sphero` package."""
+"""Tests for `openai_gym_sphero` package."""
 
 import pytest
 
 
-from gym_sphero import gym_sphero
+from openai_gym_sphero import openai_gym_sphero
 
 
 @pytest.fixture

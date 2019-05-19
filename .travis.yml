@@ -25,5 +25,5 @@ deploy:
     secure: PLEASE_REPLACE_ME
   on:
     tags: true
-    repo: leigh-johnson/gym_sphero
+    repo: leigh-johnson/openai_gym_sphero
     python: 3.6

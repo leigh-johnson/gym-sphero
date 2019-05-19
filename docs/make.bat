@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=gym_sphero
+set SPHINXPROJ=openai_gym_sphero
 
 if "%1" == "" goto help
 

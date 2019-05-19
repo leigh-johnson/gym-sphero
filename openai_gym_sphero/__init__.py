@@ -9,5 +9,5 @@ from gym.envs.registration import register
 
 register(
     id='sphero-v0',
-    entry_point='gym_sphero.envs:SpheroEnv',
+    entry_point='openai_gym_sphero.envs:SpheroEnv',
 )

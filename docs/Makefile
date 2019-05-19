@@ -4,7 +4,7 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = python -msphinx
-SPHINXPROJ    = gym_sphero
+SPHINXPROJ    = openai_gym_sphero
 SOURCEDIR     = .
 BUILDDIR      = _build
 
