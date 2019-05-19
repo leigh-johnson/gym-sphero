@@ -12,8 +12,7 @@ with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
 requirements = [
-    'picamera', 
-    'pillow',
+    'gym',
     'spheropy[winble];platform_system=="Windows"',
     'spheropy[pygatt];platform_system=="Linux"'
 ]
