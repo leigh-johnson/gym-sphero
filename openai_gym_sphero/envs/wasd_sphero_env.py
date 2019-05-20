@@ -1,10 +1,18 @@
+# python
+import logging
+# lib
 import gym
 from gym import error, spaces, utils
 from gym.utils import seeding
 
+UP = 0
+RIGHT = 1
+DOWN = 2
+LEFT = 3
+
 
 class SpheroEnv(gym.Env):
-    metadata = {'render.modes': ['human']}
+    metadata = {'render.modes': ['human', 'ansi']}
 
     def __init__(self):
         pass

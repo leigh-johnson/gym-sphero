@@ -8,6 +8,6 @@ __version__ = '0.0.1'
 from gym.envs.registration import register
 
 register(
-    id='sphero-v0',
-    entry_point='openai_gym_sphero.envs:SpheroEnv',
+    id='wasd-sphero-v0',
+    entry_point='openai_gym_sphero.envs:WASDSpheroEnv',
 )
